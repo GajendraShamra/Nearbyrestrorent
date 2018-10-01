@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gajendra Task</string>
+    <string name="google_maps_key">AIzaSyCe0L2pON1GBKGzTCYu6-T2d2cbt-OlHNo</string>
+    <string name="datetime">Date &amp; Time </string>
+</resources>
